@@ -106,23 +106,23 @@ smartgrid('./src/precss', settings);
 	}
 	<h3>HTML</h3>
 	<p>div class="debug"</p>
-		<p><div></p>
-			<p><div></p>
+		<p>div</p>
+			<p>div</p>
 				<p><p>Колонки. Если колонок 12, то дивов будет тоже 12</p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-				<p><div></div></p>
-			<p></div></p>
-		<p></div></p>
-	<p></div></p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+				<p>div/div</p>
+			<p>/div</p>
+		<p>/div</p>
+	<p>/div</p>
 </code>
 </pre>
