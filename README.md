@@ -75,7 +75,7 @@ smartgrid('./src/precss', settings);
 </code>
 </pre>
 <p>В контейнере мы создаём элементы по сетке</p>
-<code>
+<pre><code>
 	.parent {
 		.row-flex(); /* .row-float() */
 	}
