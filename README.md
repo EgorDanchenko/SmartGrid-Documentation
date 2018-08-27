@@ -97,3 +97,31 @@ smartgrid('./src/precss', settings);
 })</li> /* CSS свойства на md разрешении. */
 <li>.reset()</li>/* Cбрасывает стили браузера. Вставьте в начало кода препроцессора */
 </ul>
+<h2>Показать сетку на экране</h2>
+<pre><code>
+	<h3>CSS</h3>
+	/* Создадим отображение сетки */
+	.debug {
+		.debug(rgba(0,0,0,0.5), 1px solid red);
+	}
+	<h3>HTML</h3>
+	<div class="debug">
+		<div>
+			<div>
+				<!--Колонки. Если колонок 12, то дивов будет тоже 12 -->
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</div>
+	</div>
+</code>
