@@ -105,9 +105,9 @@ smartgrid('./src/precss', settings);
 		.debug(rgba(0,0,0,0.5), 1px solid red);
 	}
 	<h3>HTML</h3>
-	<p>&lt;div class="debug"&gt;</p>
-		<p>&lt;div&gt;</p>
-			<p>&lt;div&gt;</p>
+	&lt;div class="debug"&gt;
+		&lt;div&gt;
+			&lt;div&gt;
 				<p><p>Колонки. Если колонок 12, то дивов будет тоже 12</p>
 				<p>&lt;div&gt;&lt;/div&gt;</p>
 				<p>&lt;div&gt;&lt;/div&gt;</p>
