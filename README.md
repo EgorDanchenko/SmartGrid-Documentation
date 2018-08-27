@@ -91,7 +91,7 @@ smartgrid('./src/precss', settings);
 <h2>Полезные функции</h2>
 <ul>
 <li>.shift-left</li>/* Отступ слева */
-<li>.shift-md-left</li>/* Отступ справа на планшете */
+<li>.shift-md-right</li>/* Отступ справа на планшете */
 <li>.md-block({
 	font-size: 25px;
 })</li> /* CSS свойства на md разрешении. */
