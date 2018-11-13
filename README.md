@@ -1,6 +1,7 @@
 # SmartGrid-Documentation
 <p>Не большая Документация по библиотеке SmartGrid на русском языке.</p>
 <p>Автор библиотеки - <a href="https://github.com/dmitry-lavrik" target="_blank">Дмитрий Лаврик</a></p>
+<p>Дополнительная статья о SmartGrid от FreeSpace: <a href="https://freespace.glezer.ru/css-library/smartgrid/" target="_blank">FreeSpace</a></p>
 
 <h2>Установка</h2>
 <p>$ npm i smart-grid --save-dev</p>
